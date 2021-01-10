@@ -1,0 +1,35 @@
+WHAT IS LINEAR REGRESSION?
+
+Linear regression is a form of predictable modelling which builds a relationship between input variables and output variable
+its used to predict the output as continuous values
+
+
+A line of regression shows the linear relationship between independent variable and dependent variable
+
+note
+input variables are independent variables 
+and dependent variables are output variable
+
+
+
+SIMPLE LINEAR REGRESSION
+
+It is used when we have more than one inputs 
+                                      y = b0 + b1x1
+                                      
+MULTIPLE LINEAR REGRESSION
+
+It is used when we have more than one output variable
+                                     y = b0 + b1x1 + b2x2 + ......
+                                     
+                                     
+LOSS FUCNTION IN LINEAR REGRESSION
+
+MEAN SQUARED FUNCTION (MSE)  is the most commonly used function in regression
+MSE is the sum of squared distances between our target variable and predicted values then divided by no. of samples
+
+TECHNIQUES TO EVALUATE THE PERFORMANCE OF THE LINEAR REGRESSION MODEL
+  R- SQUARED
+        this is the statistical measure of how close the data are to be fitted the regression line
+        best possible score is 1.0 and it can be negative (worst model)
+        
